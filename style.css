@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    background-color: greenyellow;
+    color: azure;
+    padding: 20px;
+}
+#calc{
+    width: 290px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: darkgrey;
+    border: 3px solid black;
+    padding: 20px;
+}
+input{
+    width: 70px;
+    border: 1px solid black;
+    margin: 15ps;
+    padding: 15px;
+    background-color: grey;
+    color: azure;
+    font-size: 15px;
+    
+}
+.calculator{
+    width: 300px;
+    height: 450px;
+    border: 5px solid yellow;
+    margin:auto;
+    padding: 20px;
+}
+#clear{
+   width: 290px;
+    margin: auto;
+    margin-top: 20px;
+    color: azure;
+    border: 5px solid black;
+    padding: 20px; 
+}
